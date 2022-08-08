@@ -84,3 +84,8 @@ list:
     name: "Indonesian"
     native_name: "Bahasa Indonesia"
     author: "loliconazter"
+  - code: "es"
+    flag: "es"
+    name: "Spanish"
+    native_name: "Español"
+    author: "Dr(JakJaPom)Aerobicus"
